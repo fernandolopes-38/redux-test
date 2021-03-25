@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fernando",
+      "email": "fernando.lopes@uol.com.br",
+      "age": 28
+    },
+    {
+      "id": 2,
+      "name": "Julha",
+      "email": "julha@terra.com",
+      "age": 28
+    },
+    {
+      "id": 3,
+      "name": "Gilberto do Vigor",
+      "email": "gil@terra.com",
+      "age": 28
+    }
+  ]
+}
