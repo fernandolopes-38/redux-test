@@ -2,9 +2,10 @@ export interface User {
   id: number;
   name: string;
   email: string;
-  age: number;
+  age: string;
 }
 
 export interface GlobalState {
-  users: User[];
+  candidates: User[];
+  students: User[];
 }

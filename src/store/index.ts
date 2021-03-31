@@ -1,5 +1,4 @@
 import { createStore } from 'redux';
+import { usersReducer } from './modules/user';
 
-import { AllUser } from './modules/user/reducer';
-
-export const store = createStore(AllUser);
+export const store = createStore(usersReducer);
